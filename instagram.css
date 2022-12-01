@@ -1,0 +1,44 @@
+body{ padding:0;
+      margin:0; }
+.insta1
+{  
+    background-color:black;
+    color:white;
+    border-radius:40px;
+  padding:250px 200px 250px 250px;
+}
+
+
+.insta2
+{
+  
+   color:black;
+   padding:100px 150px 250px 150px;
+}
+.image2 {  float:right;
+            padding:0px 40px 30px 10px;
+            width:40px;
+}
+.insta3
+{ 
+  background-color:black;
+  color:white;
+  padding:100px 350px 250px 500px;
+  border-radius:40px;
+}
+.insta3
+h1{ padding:70px 70px 0px 90px;
+ }
+
+
+.insta4
+   { 
+    padding:200px 50px 10px 500px;
+    color:black;
+  }
+.hash
+   { 
+     padding:100px 200px 10px 30px;
+      display:flex;} 
+
+    
